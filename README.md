@@ -1,4 +1,6 @@
 # 카톡 분석기 v1.0.0  
+![pr](https://user-images.githubusercontent.com/48395704/91725797-30106480-ebda-11ea-9bcc-6ef8a4309bb6.jpg)  
+
 
 
 ### 필요 모듈
