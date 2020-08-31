@@ -22,7 +22,7 @@
  - <code>main.py</code> 실행  
 ### 결과  
  - 콘솔창  
-  ![image](https://user-images.githubusercontent.com/48395704/91749445-6eb71680-ebfc-11ea-8453-10550ed4bba0.png)  
+  ![image](https://user-images.githubusercontent.com/48395704/91749537-91492f80-ebfc-11ea-9832-f0f22c695e67.png)   
  - 출력 파일  
   ![image](https://user-images.githubusercontent.com/48395704/91723857-613b6580-ebd7-11ea-9c7d-e4f45a137d4c.png)  
   chat_data.csv : 데이터 가공 결과 파일   
