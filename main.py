@@ -137,9 +137,6 @@ def tokenization(df):
     for i in range(l):
         expect_word = ["이모티콘", "사진", "어제", "오늘", "내일"]
         try:
-            '''if any(x in df[MESSAGE][i] for x in expect_word):
-                pass
-            else:'''
             tmp = tk.nouns(df[MESSAGE][i])
         except:
             tmp = []
