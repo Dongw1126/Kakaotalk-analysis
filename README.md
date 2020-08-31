@@ -21,7 +21,7 @@
  - 콘솔창  
   ![3](https://user-images.githubusercontent.com/48395704/91719724-cfc8f500-ebd0-11ea-8d7c-6b775ebcbc1e.JPG)  
  - 출력 파일  
-  ![image](https://user-images.githubusercontent.com/48395704/91723758-39e49880-ebd7-11ea-83d1-f6914b57947c.png)    
+  ![image](https://user-images.githubusercontent.com/48395704/91723857-613b6580-ebd7-11ea-9c7d-e4f45a137d4c.png)  
   chat_data.csv : 데이터 가공 결과 파일   
   output.pdf : 카톡 대화 분석 결과 파일
 
