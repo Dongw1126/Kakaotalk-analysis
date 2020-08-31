@@ -12,7 +12,7 @@
  - 파일명을 KakaoTalk.txt 로 변경 후 main.py와 같은 디렉토리에 저장  
 ![2](https://user-images.githubusercontent.com/48395704/91717791-26cccb00-ebcd-11ea-99f6-ef5ba099f544.JPG)
 - KakaoTalk.txt 의 형식은 이런 식이어야 합니다  
-   - ![image](https://user-images.githubusercontent.com/48395704/91723547-d9edf200-ebd6-11ea-97b7-c8e45b5a1f5a.png)
+   - ![image](https://user-images.githubusercontent.com/48395704/91723706-26393200-ebd7-11ea-829a-2bb01fe0aa01.png)  
 
   
 ### 실행
