@@ -1,4 +1,5 @@
 # 카톡 분석기 v1.0.0  
+
 ### 필요 모듈
 - pandas
 - matplotlib
@@ -9,7 +10,10 @@
  - 카카오톡 PC 버전에서 카톡 대화 내보내기 선택  
 ![1](https://user-images.githubusercontent.com/48395704/91716165-0a7b5f00-ebca-11ea-9184-ad13a17b5d01.JPG)     
  - 파일명을 KakaoTalk.txt 로 변경 후 main.py와 같은 디렉토리에 저장  
-![2](https://user-images.githubusercontent.com/48395704/91717791-26cccb00-ebcd-11ea-99f6-ef5ba099f544.JPG)  
+![2](https://user-images.githubusercontent.com/48395704/91717791-26cccb00-ebcd-11ea-99f6-ef5ba099f544.JPG)
+- KakaoTalk.txt 의 형식은 이런 식이어야 합니다  
+   - ![image](https://user-images.githubusercontent.com/48395704/91723547-d9edf200-ebd6-11ea-97b7-c8e45b5a1f5a.png)
+
   
 ### 실행
  - <code>main.py</code> 실행  
