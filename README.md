@@ -10,7 +10,7 @@
  - 카카오톡 PC 버전에서 카톡 대화 내보내기 선택  
 ![1](https://user-images.githubusercontent.com/48395704/91716165-0a7b5f00-ebca-11ea-9184-ad13a17b5d01.JPG)     
  - 파일명을 KakaoTalk.txt 로 변경 후 main.py와 같은 디렉토리에 저장  
-![2](https://user-images.githubusercontent.com/48395704/91717791-26cccb00-ebcd-11ea-99f6-ef5ba099f544.JPG)
+![image](https://user-images.githubusercontent.com/48395704/91723995-947df480-ebd7-11ea-8ec9-986d2329f77b.png)
 - KakaoTalk.txt 의 형식은 이런 식이어야 합니다  
    - ![image](https://user-images.githubusercontent.com/48395704/91723706-26393200-ebd7-11ea-829a-2bb01fe0aa01.png)  
 
