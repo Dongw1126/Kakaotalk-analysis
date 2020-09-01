@@ -130,7 +130,7 @@ def build_pd_data(filename):
 def tokenization(df):
     loading_message = "데이터 처리 중"
     print(loading_message)
-    tk = konlpy.tag.Komoran()
+    tk = konlpy.tag.Okt()
     topic_list = []
     l = len(df[MESSAGE])
 
