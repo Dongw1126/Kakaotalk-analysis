@@ -11,7 +11,7 @@ from wordcloud import WordCloud, STOPWORDS
 path_gothic = 'C:/Windows/Fonts/malgun.ttf'
 font_property = fm.FontProperties(fname=path_gothic, size=12)
 
-# 카카오톡 채팅 분석기 v1.0.0
+# 카카오톡 채팅 분석기
 def get_chat_name(filename):
     """
     채팅방 이름 추출
